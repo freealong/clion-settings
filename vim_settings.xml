@@ -54,10 +54,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539755485544">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
+      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539758650746">
+        <mark key="[" line="1072" column="0" />
+        <mark key="]" line="74" column="5" />
+        <mark key="." line="74" column="5" />
+        <mark key="^" line="74" column="5" />
       </file>
       <file name="$USER_HOME$/projects/pickpack/build/CMakeCache.txt" timestamp="1539744762655">
         <mark key="'" line="25" column="0" />
