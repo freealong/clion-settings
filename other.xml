@@ -1,7 +1,0 @@
-<application>
-  <component name="CPPToolchains" version="2">
-    <toolchains detectedVersion="5">
-      <toolchain name="Default" customCMakePath="/usr/bin/cmake" customMakePath="/usr/bin/make" customCCompilerPath="/usr/bin/gcc" customCXXCompilerPath="/usr/bin/g++" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
-    </toolchains>
-  </component>
-</application>
