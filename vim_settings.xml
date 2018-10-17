@@ -39,13 +39,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539761180128">
+      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539763113684">
         <mark key="a" line="326" column="27" />
-        <mark key="'" line="251" column="31" />
-        <mark key="[" line="312" column="78" />
-        <mark key="]" line="326" column="27" />
-        <mark key="." line="326" column="27" />
-        <mark key="^" line="326" column="27" />
+        <mark key="'" line="969" column="2" />
+        <mark key="[" line="370" column="81" />
+        <mark key="]" line="438" column="44" />
+        <mark key="." line="438" column="44" />
+        <mark key="^" line="438" column="44" />
       </file>
       <file name="/usr/include/pcl-1.8/pcl/io/image_depth.h" timestamp="1539759779874" />
       <file name="$USER_HOME$/projects/pickpack/build/CMakeCache.txt" timestamp="1539744762655">
@@ -84,6 +84,9 @@
       <jump line="110" column="7" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="111" column="8" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="251" column="31" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1064" column="0" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="438" column="30" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="969" column="2" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -93,7 +96,7 @@
         <text>argv[1]</text>
       </register>
       <register name="/" type="4">
-        <text>sf_ipl</text>
+        <text>cloud_conn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZG91YmxlIGJldGEgPSBhdGFuMihwb2ludC55LCBwb2ludC54KTsKICAgICAgYXV0byBjb2wgPSBzdGF0aWNfY2FzdDxpbnQ+KHN0ZDo6cm91bmQoKGJldGEgLyBNX1BJICogMC41ICsgMC41KSAqIG1heF9wb2ludF9udW0pKTsKICAgICAgY29sID0gY2xpcChjb2wsIDAsIG1heF9wb2ludF9udW0tMSk7Cg==</text>
@@ -127,9 +130,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sf_ipl</last-search>
+      <last-search>cloud_conn</last-search>
       <last-offset />
-      <last-pattern>sf_ipl</last-pattern>
+      <last-pattern>cloud_conn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -140,6 +143,7 @@
         <entry>data</entry>
         <entry>openni</entry>
         <entry>sf_ipl</entry>
+        <entry>cloud_conn</entry>
       </history-search>
       <history-cmd />
       <history-expr />
