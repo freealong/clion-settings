@@ -16,7 +16,8 @@
         <mark key="." line="48" column="13" />
         <mark key="^" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/ProcessCloud.cpp" timestamp="1539829330574">
+      <file name="$USER_HOME$/projects/pickpack/ProcessCloud.cpp" timestamp="1539841563628">
+        <mark key="'" line="498" column="0" />
         <mark key="[" line="464" column="16" />
         <mark key="]" line="464" column="21" />
         <mark key="^" line="464" column="21" />
@@ -45,7 +46,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539834732182">
+      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539841545016">
         <mark key="a" line="325" column="27" />
         <mark key="'" line="229" column="26" />
         <mark key="[" line="260" column="0" />
@@ -120,6 +121,7 @@
       <jump line="94" column="53" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="132" column="16" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="229" column="26" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="498" column="0" filename="$USER_HOME$/projects/pickpack/ProcessCloud.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -129,7 +131,7 @@
         <text>in</text>
       </register>
       <register name="/" type="4">
-        <text>seg_enable</text>
+        <text>yongqi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZG91YmxlIGJldGEgPSBhdGFuMihwb2ludC55LCBwb2ludC54KTsKICAgICAgYXV0byBjb2wgPSBzdGF0aWNfY2FzdDxpbnQ+KHN0ZDo6cm91bmQoKGJldGEgLyBNX1BJICogMC41ICsgMC41KSAqIG1heF9wb2ludF9udW0pKTsKICAgICAgY29sID0gY2xpcChjb2wsIDAsIG1heF9wb2ludF9udW0tMSk7Cg==</text>
@@ -163,9 +165,9 @@
       </register>
     </registers>
     <search>
-      <last-search>seg_enable</last-search>
+      <last-search>yongqi</last-search>
       <last-offset />
-      <last-pattern>seg_enable</last-pattern>
+      <last-pattern>yongqi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -181,6 +183,7 @@
         <entry>rect111</entry>
         <entry>seg_enable_m</entry>
         <entry>seg_enable</entry>
+        <entry>yongqi</entry>
       </history-search>
       <history-cmd />
       <history-expr />
