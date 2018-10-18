@@ -45,12 +45,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539834225137">
-        <mark key="a" line="326" column="27" />
+      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539834732182">
+        <mark key="a" line="325" column="27" />
         <mark key="'" line="229" column="26" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
       <file name="/usr/include/pcl-1.8/pcl/io/image_depth.h" timestamp="1539759779874" />
@@ -123,7 +123,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIC8vIEB5b25ncWk6IGltYWdlIGluIGRhcmtuZXQgdXNpbmcgaCpjKncgZm9ybWF0PyBXZWlyZC4K</text>
       </register>
       <register name="-" type="4">
         <text>in</text>
@@ -135,31 +135,31 @@
         <text encoding="base64">ICAgICAgZG91YmxlIGJldGEgPSBhdGFuMihwb2ludC55LCBwb2ludC54KTsKICAgICAgYXV0byBjb2wgPSBzdGF0aWNfY2FzdDxpbnQ+KHN0ZDo6cm91bmQoKGJldGEgLyBNX1BJICogMC41ICsgMC41KSAqIG1heF9wb2ludF9udW0pKTsKICAgICAgY29sID0gY2xpcChjb2wsIDAsIG1heF9wb2ludF9udW0tMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIC8vIEB5b25ncWk6IGltYWdlIGluIGRhcmtuZXQgdXNpbmcgaCpjKncgZm9ybWF0PyBXZWlyZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByZWdpc3RlciBtb3VzZSBhbmQga2V5Ym9hcmQgY2FsbGJhY2sgdG8gY2xvdWQgdmlld2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGNsOjppbzo6Cg==</text>
+        <text encoding="base64">ICAvLyByZWdpc3RlciBtb3VzZSBhbmQga2V5Ym9hcmQgY2FsbGJhY2sgdG8gY2xvdWQgdmlld2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGNsOjppbzo6Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUgKHRjcF9zZXJ2ZXIgdGNwX3NlcnZlci5jcHApCnRhcmdldF9saW5rX2xpYnJhcmllcyAodGNwX3NlcnZlciAke0Jvb3N0X0xJQlJBUklFU30pCmFkZF9leGVjdXRhYmxlICh0Y3BfY2xpZW50IHRjcF9jbGllbnQuY3BwKQp0YXJnZXRfbGlua19saWJyYXJpZXMgKHRjcF9jbGllbnQgJHtCb29zdF9MSUJSQVJJRVN9ICR7Q01BS0VfVEhSRUFEX0xJQlNfSU5JVH0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUgKHRjcF9jbGllbnQgdGNwX2NsaWVudC5jcHApCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUgKHRjcF9zZXJ2ZXIgdGNwX3NlcnZlci5jcHApCnRhcmdldF9saW5rX2xpYnJhcmllcyAodGNwX3NlcnZlciAke0Jvb3N0X0xJQlJBUklFU30pCmFkZF9leGVjdXRhYmxlICh0Y3BfY2xpZW50IHRjcF9jbGllbnQuY3BwKQp0YXJnZXRfbGlua19saWJyYXJpZXMgKHRjcF9jbGllbnQgJHtCb29zdF9MSUJSQVJJRVN9ICR7Q01BS0VfVEhSRUFEX0xJQlNfSU5JVH0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUgKHRjcF9jbGllbnQgdGNwX2NsaWVudC5jcHApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwY2w6OlBvaW50Q2xvdWQ8cGNsOjpQb2ludFhZWkk+IHRlc3RfY2xvdWQ7CiAgcGNsOjppbzo6bG9hZFBDREZpbGUoYXJndlsxXSwgdGVzdF9jbG91ZCk7CiAgY2xvdWQyaW1hZ2UodGVzdF9jbG91ZCwgOTYsIDE2OTYsIDE2LCAxNjk2KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
