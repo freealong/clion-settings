@@ -48,15 +48,15 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539858266021">
+      <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539860555941">
         <mark key="a" line="1167" column="5" />
         <mark key="b" line="33" column="49" />
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="21" />
+        <mark key="'" line="400" column="21" />
+        <mark key="[" line="1177" column="0" />
+        <mark key="]" line="1177" column="0" />
         <mark key="n" line="826" column="62" />
         <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
+        <mark key="." line="1177" column="0" />
       </file>
       <file name="/usr/include/pcl-1.8/pcl/io/image_depth.h" timestamp="1539759779874" />
       <file name="$USER_HOME$/projects/pickpack/build/CMakeCache.txt" timestamp="1539744762655">
@@ -96,14 +96,6 @@
       <file name="$USER_HOME$/projects/pickpack/cmake_modules/FindGLOG.cmake" timestamp="1539846598400" />
     </filemarks>
     <jumps>
-      <jump line="431" column="4" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="684" column="10" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="694" column="10" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="695" column="10" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="719" column="10" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="721" column="10" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="830" column="8" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="831" column="8" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="860" column="12" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1019" column="11" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1121" column="40" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
@@ -120,7 +112,6 @@
       <jump line="1169" column="21" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1173" column="9" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1171" column="16" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="36" column="24" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="123" column="20" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="874" column="63" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="927" column="12" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
@@ -196,60 +187,66 @@
       <jump line="358" column="0" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1235" column="23" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="36" column="8" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="994" column="5" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1155" column="4" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1177" column="0" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1260" column="8" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1176" column="18" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1181" column="6" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="1193" column="41" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="400" column="21" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVuc2lnbmVkIGNoYXIgaGFzX3NlcmlhbCA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sle</text>
       </register>
       <register name="/" type="4">
-        <text>newed</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG5ldyBwY2w6OnZpc3VhbGl6YXRpb246OlBDTFZpc3VhbGl6ZXIoIlNGIFJvYm90aWNzIHBhY2thZ2UgcGljayIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTE9HKElORk8pIDw8ICJhc2RmYXNkZmFzIjsK</text>
+        <text encoding="base64">ICAgIHVuc2lnbmVkIGNoYXIgaGFzX3NlcmlhbCA9IDA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPRyhJTkZPKSA8PCBzOwo=</text>
+        <text encoding="base64">ICAgICAgTE9HKElORk8pIDw8ICJhc2RmYXNkZmFzIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gcyA6IGNsYXNzX25hbWVzXykK</text>
+        <text encoding="base64">ICAgIExPRyhJTkZPKSA8PCBzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gcyA6IGNsYXNzX25hbWVzXykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ldyBwY2w6OnZpc3VhbGl6YXRpb246OkltYWdlVmlld2VyKCJTRiBSb2JvdGljcyBwYWNrYWdlIGltYWdlIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2Vfdmlld2VyXy5yZXNldCgK</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldyBwY2w6OnZpc3VhbGl6YXRpb246OkltYWdlVmlld2VyKCJTRiBSb2JvdGljcyBwYWNrYWdlIGltYWdlIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ldyBwY2wK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2Vfdmlld2VyXy5yZXNldCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBjbDo6dmlzdWFsaXphdGlvbjo6UENMVmlzdWFsaXplciggY2xvdWRfdmlldyA9IG5ldyBwY2w6OnZpc3VhbGl6YXRpb246OlBDTFZpc3VhbGl6ZXIoIlNGIFJvYm90aWNzIHBhY2thZ2UgcGljayIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldyBwY2wK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gaW1hZ2VfdmlldyA9IG5ldyBwY2w6OnZpc3VhbGl6YXRpb246OkltYWdlVmlld2VyKCJTRiBSb2JvdGljcyBwYWNrYWdlIHBpY2siKTsKICAgIGlmIChGTEFHU19ndWkpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHBjbDo6dmlzdWFsaXphdGlvbjo6UENMVmlzdWFsaXplciggY2xvdWRfdmlldyA9IG5ldyBwY2w6OnZpc3VhbGl6YXRpb246OlBDTFZpc3VhbGl6ZXIoIlNGIFJvYm90aWNzIHBhY2thZ2UgcGljayIpOwo=</text>
       </register>
     </registers>
     <search>
-      <last-search>newed</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>newed</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>PRINT</entry>
-        <entry>DISPLAY</entry>
         <entry>yml</entry>
         <entry>viewer</entry>
         <entry>view</entry>
@@ -263,10 +260,13 @@
         <entry>class</entry>
         <entry>cloud_viewer</entry>
         <entry>cloud_view</entry>
-        <entry>main</entry>
         <entry>image_viewer</entry>
         <entry>push</entry>
         <entry>newed</entry>
+        <entry>HAS_SE</entry>
+        <entry>has_ser</entry>
+        <entry>has_robot</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd />
       <history-expr />
