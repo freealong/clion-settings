@@ -68,11 +68,11 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="171" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pickpack/CMakeLists.txt" timestamp="1539913804418">
-        <mark key="[" line="57" column="22" />
-        <mark key="]" line="57" column="38" />
-        <mark key="." line="57" column="38" />
-        <mark key="^" line="57" column="42" />
+      <file name="$USER_HOME$/projects/pickpack/CMakeLists.txt" timestamp="1539917762298">
+        <mark key="[" line="40" column="56" />
+        <mark key="]" line="40" column="63" />
+        <mark key="." line="40" column="63" />
+        <mark key="^" line="40" column="63" />
       </file>
       <file name="$USER_HOME$/projects/pickpack/ProcessCloud.h" timestamp="1539848715118">
         <mark key="[" line="12" column="27" />
@@ -185,16 +185,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICR7Qm9vc3RfTElCUkFSSUVTfQ==</text>
+        <text>apps</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICR7Qm9vc3RfTElCUkFSSUVTfQ==</text>
+        <text>apps</text>
       </register>
       <register name="/" type="4">
         <text>cloud_callback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBMT0coSU5GTykgPDwgKCJjbG91ZCBjYWxsYmFjayIpOwo=</text>
+        <text encoding="base64">c2V0KEcyT19CVUlMRF9BUFBTIE9GRiBDQUNIRSBCT09MICJlbmFibGUgYnVpbGQgZzJvIGFwcHMiIEZPUkNFKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzcmFuZCgyMjIyMjIyKTsK</text>
