@@ -50,7 +50,9 @@
         <mark key="." line="52" column="12" />
       </file>
       <file name="/CMakeLists.txt" timestamp="1539846929322" />
-      <file name="$USER_HOME$/projects/pickpack/3rdparty/darknet/include/darknet.h" timestamp="1539856262272" />
+      <file name="$USER_HOME$/projects/pickpack/3rdparty/darknet/include/darknet.h" timestamp="1540004480985">
+        <mark key="'" line="435" column="8" />
+      </file>
       <file name="/opt/ros/kinetic/include/opencv-3.3.1/opencv2/core/types_c.h" timestamp="1539760612260" />
       <file name="$USER_HOME$/projects/pickpack/pickpack.cpp" timestamp="1539921123849">
         <mark key="a" line="1162" column="5" />
@@ -82,8 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="984" column="64" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
-      <jump line="34" column="19" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="33" column="22" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1108" column="19" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="30" column="20" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
@@ -182,6 +182,8 @@
       <jump line="1111" column="28" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1045" column="26" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
       <jump line="1072" column="24" filename="$USER_HOME$/projects/pickpack/pickpack.cpp" />
+      <jump line="691" column="5" filename="$USER_HOME$/projects/pickpack/3rdparty/darknet/include/darknet.h" />
+      <jump line="435" column="8" filename="$USER_HOME$/projects/pickpack/3rdparty/darknet/include/darknet.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -191,7 +193,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>sleep</text>
+        <text>sub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvb3N0Ojp0aGlzX3RocmVhZDo6c2xlZXAoYm9vc3Q6OnBvc2l4X3RpbWU6Om1pbGxpc2Vjb25kcygxMDApKTsK</text>
@@ -225,15 +227,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
+      <last-search>sub</last-search>
       <last-offset />
-      <last-pattern>sleep</last-pattern>
+      <last-pattern>sub</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cloud_viewer</entry>
         <entry>cloud_view</entry>
         <entry>image_viewer</entry>
         <entry>push</entry>
@@ -253,6 +254,7 @@
         <entry>CMAKE_BUILD_TYPE</entry>
         <entry>cloud_callback</entry>
         <entry>sleep</entry>
+        <entry>sub</entry>
       </history-search>
       <history-cmd />
       <history-expr />
